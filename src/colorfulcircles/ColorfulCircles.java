@@ -30,6 +30,13 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+/**
+ * @author Juan Gaviria
+ * @version 0.1
+ * @serial
+ * @since 0.1
+ */
+
 package colorfulcircles;
 
 import javafx.animation.KeyFrame;
